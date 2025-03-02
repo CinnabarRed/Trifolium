@@ -26,4 +26,4 @@ This piece of text is *LOCAL ONLY* (```main```). I am going to integrate it with
 
 This is some new work in a different branch.
 
-This is some work in the main branch.
+This is some work in the main branch.git commit -am "
