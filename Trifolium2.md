@@ -1,7 +1,7 @@
 Trifolium2
 ================
 Theresa Dockery
-2025-02-28
+2025-03-02
 
 ## R Markdown
 
@@ -34,10 +34,5 @@ You can also embed plots, for example:
 Note that the `echo = FALSE` parameter was added to the code chunk to
 prevent printing of the R code that generated the plot.
 
-This is our first repeated amend.
-
-This is yet another repeated amend! And one last repeated amend…
-
-*REPEATED AMENDS COMPLETE*
-
-I want to *force push* this git amend.
+This piece of text is *LOCAL ONLY* (`main`). I am going to integrate it
+with the remote (`origin`).
