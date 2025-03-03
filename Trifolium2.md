@@ -1,7 +1,7 @@
 Trifolium2
 ================
 Theresa Dockery
-2025-03-02
+2025-03-03
 
 ## R Markdown
 
@@ -30,6 +30,3 @@ summary(cars)
 
 Note that the `echo = FALSE` parameter was added to the code chunk to
 prevent printing of the R code that generated the plot.
-
-This piece of text is *LOCAL ONLY* (`main`). I am going to integrate it
-with the remote (`origin`).
