@@ -14,7 +14,7 @@ includes both content as well as the output of any embedded R code
 chunks within the document. You can embed an R code chunk like this: git
 commit -am
 
-## Including \*\*\*\* gitPlots
+## Including Plots787878787878787878
 
 Note that the `echo = FALSE` parameter was added to the code chunk to
 prevent printing of the R code that generated the plot.
