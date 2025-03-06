@@ -20,3 +20,5 @@ Note that the `echo = FALSE` parameter was added to the code chunk to
 prevent printing of the R code that generated the plot.
 
 This is a *TEST*.
+
+[CLICK HERE](https://github.com/CinnabarRed/Trifolium/edit/master/Trifolium2.md)
